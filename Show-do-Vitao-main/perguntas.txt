@@ -1,0 +1,174 @@
+Pergunta
+Qual código a seguir está escrito de maneira correta em Python?
+Resposta
+print("Hello World!")
+JOptionPane.showMessageDiaLog(“Hello Word”)
+println! (“Hello World!”)
+print(Hello World!)
+Pergunta
+O que é uma Tupla
+Resposta
+é uma lista imutável
+é uma linha de códigos
+é uma String
+é uma classe
+Pergunta
+Para que é usada variavel int?
+Resposta
+É usada para programar em números inteiros
+É usada para programar em números complexos
+É usada como “enquanto” no código 
+É usada em casas decimais
+Pergunta
+Para que serve a variavel float?
+Resposta
+Para programar com numeros fracionais
+Para programar objetos que flutuam na tela
+Para programar frases 
+Para programar brilho da tela
+Pergunta
+Qual dessas é uma variável permitida?
+Resposta
+caes_e_gatos
+caes e gatos
+caes&gatos
+3caes2gatos
+Pergunta
+Quais as opções de variáveis do tipo Boolean
+Resposta
+True e False
+1 e 0
+Yes e No
+Right e Wrong
+Pergunta
+Qual o resultado do código a seguir?: 
+a = “50” + “25”  
+print (a)
+Resposta
+5025
+75
+Erro
+50+25 
+Pergunta
+Que código é utilizado para trazer uma biblioteca externa?
+Resposta
+import
+bring
+take
+pull
+Pergunta
+Qual desses é uma estrutura de repetição?
+Resposta
+for
+if
+else
+elif 
+Pergunta
+Qual o comando para criar uma lista?
+Resposta
+lista = []
+lista.append
+lista.pop
+create list {}
+Pergunta
+Qual dessas variáveis está incorreta?
+Resposta
+1nome_de_funcionario
+nome_de_funcionario
+nome_de_funcionario1
+nome_de_funcionário
+Pergunta
+Qual a forma correta de declarar uma função?
+Resposta
+def soma(A, B):
+function soma(A, B):
+soma(A, B){ }
+import function(A,B):
+Pergunta
+Qual operador lógico utilizado para verificar se dois valores são diferentes?
+Resposta
+!=
+==
+≠
+>=
+Pergunta
+Como criar uma lista com números de 1 a 5?
+Resposta
+lista = [1, 2, 3, 4, 5]
+lista = num(1, 5)
+lista = {1, 2, 3, 4, 5}
+lista = (1, 2, 3, 4, 5)
+Pergunta
+Como criar um looping em python
+Resposta
+while z > y:
+while (x < y)
+while x > y
+while x < y {
+Pergunta
+Qual método para trabalhar com Strings, deixa todos os caracteres maiúsculos?
+Resposta
+upper()
+isnumeric()
+lower()
+swapcase()
+Pergunta
+Qual destes está errado?
+Resposta
+x y z = 1000 3000 7000
+xyz = 5,000,000
+x,y,z = 1000, 3000, 7000
+x_y_z = 5,000,000
+Pergunta
+Qual operador é usado para multiplicar números?
+Resposta
+*
+!
+%
+.
+Pergunta
+Qual a saída do seguinte código? 
+p, q, r = 10, 20 ,30  
+print(r, q, p)
+Resposta
+30 20 10
+10 20 
+10 20 30
+10 30 20
+Pergunta
+Qual a saída do seguinte código? 
+x = 36 / 4 * (3 +  2) * 4 + 2 
+print(x)
+Resposta
+182
+37
+117
+270
+Pergunta
+Qual operador pode ser usado para comparar dois valores?
+Resposta
+==
+<>
+=
+><
+Pergunta
+Qual dessas coleções define uma lista?
+Resposta
+["maçã", "banana", "cereja"]    
+{"name": "maçã", "color": "verde"}
+("maçã", "banana", "cereja")
+{"maçã", "banana", "cereja"}
+Pergunta
+Qual dessas coleções define uma tupla?
+Resposta
+("maçã", "banana", "cereja")    
+{"maçã", "banana", "cereja"}
+{"name": "maçã", "color": "verde"}
+["maçã", "banana", "cereja"]
+Pergunta
+Qual instrução é usada para parar um loop?
+Resposta
+break
+return
+stop
+exit
